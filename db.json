@@ -1,7 +1,7 @@
 {
   "users": [
     { "id": 1, "firstName": "John", "lastName": "Doe", "email": "jdoe@gmail.com" , "phoneNumber": "08012345678", "password": "secret"},
-    { "id": 2, "firstName": "Mongo", "lastName": "Park", "email": "mpark@ymail.com" , "phoneNumber": "08123456789", "password": "mongoose"},,
+    { "id": 2, "firstName": "Mongo", "lastName": "Park", "email": "mpark@ymail.com" , "phoneNumber": "08123456789", "password": "mongoose"},
     { "id": 3, "firstName": "Christopher", "lastName": "Columbus", "email": "comms@outlook.com" , "phoneNumber": "08234567890", "password": "explorer"},
   ]
 }
